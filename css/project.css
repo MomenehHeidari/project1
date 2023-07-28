@@ -11,7 +11,7 @@ body {
     color: white;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -43,7 +43,7 @@ a {
 header {
     position: relative;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-        url('/Web1/Project/project1/images/h1_hero1.jpg') center center;
+        url('../images/h1_hero1.jpg') center center;
 }
 
 ul li {
@@ -507,7 +507,7 @@ footer {
 }
 
 .footer-top-img {
-    background: url('/Web1/Project/project1/images/shape.png')center no-repeat;
+    background: url('../images/shape.png')center no-repeat;
     width: 100%;
     height: 300px;
 }
@@ -591,7 +591,7 @@ footer {
     color: gray;
     line-height: 26px;
     font-size: 13px;
-    transition:0.8s;
+    transition: 0.8s;
 }
 
 #number {
